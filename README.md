@@ -23,6 +23,7 @@ Before building and running this project you need:
 * Maven 3.2 or higher
 * JDK 1.7 or 1.8
 * JBoss Fuse 6.3
+* Custom vendor database (Oracle was used in this example)
 
 Build and Deploy
 ----------------
